@@ -40,5 +40,4 @@ This project documents the prerequisites, installation, and configuration of osT
 3. Generating reports and analyzing ticket data.
 
 ## Conclusion
-Document any additional notes or final steps.
 Initial documentation for osTicket setup                                                       
